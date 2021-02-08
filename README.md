@@ -1,2 +1,2 @@
-# TP_Git
-TP Git Ayoub Yara, Jourlin Marie-Laure, Thevenot Julie
+Bonjour,
+Ceci est le README du TP Git de Marie-Laure, Julie et Yara.
